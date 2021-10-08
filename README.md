@@ -1,5 +1,7 @@
 # oh-my-route
-> 京东签到工具，原仓库删除了，这是备份项目。
+> 京东签到工具，原仓库删除了，这是备份项目
+>
+> 原作者 [xcqlucky](https://github.com/xcqlucky) ，原仓库[jd_sign_action](https://github.com/xcqlucky/JD_Sign_Action)
 
 ## 触发
 * 点亮 `Star` 或凌晨4点定时执行
