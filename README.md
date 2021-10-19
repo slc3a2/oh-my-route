@@ -1,5 +1,5 @@
 # oh-my-route
-> 京东签到工具，原仓库删除了，这是备份项目
+> 京东签到工具，在原仓库上做了优化。
 >
 > 原作者：[xcqlucky](https://github.com/xcqlucky)，原仓库：[jd_sign_action](https://github.com/xcqlucky/JD_Sign_Action)
 
