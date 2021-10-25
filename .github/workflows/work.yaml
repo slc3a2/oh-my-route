@@ -1,4 +1,4 @@
-name: JD_Sign_Action
+name: jd_action
 
 on:
   repository_dispatch:
