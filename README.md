@@ -4,7 +4,7 @@
 > 原作者：[xcqlucky](https://github.com/xcqlucky)，原仓库：[jd_sign_action](https://github.com/xcqlucky/JD_Sign_Action)
 
 ## 触发
-* 点亮 `Star` 或凌晨4点定时执行
+* 点亮当前项目 `Star` 按钮或凌晨4点定时执行 `github action`
 * 如果你想自定义触发方式，编辑 `.github/workflows/work.yaml` 
 
 ## 如何使用
