@@ -1,8 +1,8 @@
 # oh-my-route
 
-> 京东签到工具，在原仓库上做了优化。
+> 京东签到工具
 >
-> 由于原仓库被删，才新建了这个项目。原作者：[xcqlucky](https://github.com/xcqlucky)，原仓库：[jd_sign_action](https://github.com/xcqlucky/JD_Sign_Action)
+> 由于原仓库被删，才新建了这个项目。同时在原仓库上做了优化。原作者：[xcqlucky](https://github.com/xcqlucky)，原仓库：[jd_sign_action](https://github.com/xcqlucky/JD_Sign_Action)
 
 ## 触发
 
