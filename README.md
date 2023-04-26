@@ -23,7 +23,7 @@
 - 使用项目中的 Chrome 插件：`JDCookie`
 - Chrome 中拓展程序开启`开发者模式`；
 - 点击`加载已解压的拓展程序`，选择`JDCookie`目录；
-- 登录 [领京豆](https://bean.m.jd.com/)(已失效)，在这里[登录](https://home.m.jd.com/myJd/newhome.action)
+- 登录 [领京豆](https://bean.m.jd.com/)(已失效)，新地址：在首页[登录](https://jd.com/)
 - 点击`JDCookie`即可拷贝京东 cookie
 - 需要注意的是，cookie`每15天过期一次`，也就是每 15 天就需要重新获取 cookie，设置到`Secrets`中
 
